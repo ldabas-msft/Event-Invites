@@ -1,0 +1,178 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:REQUEST
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:Pacific Standard Time
+BEGIN:STANDARD
+DTSTART:16011104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+ATTENDEE;CN="Edge OS IoT PM";RSVP=TRUE:mailto:winiotpm@microsoft.com
+ATTENDEE;CN="Sydney Bruckmann";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:sydney
+	.bruckmann@microsoft.com
+ATTENDEE;CN="Jason Farmer";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:jfarmer@mi
+	crosoft.com
+ATTENDEE;CN="Adam Sarsony";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:adamsarson
+	y@microsoft.com
+ATTENDEE;CN="Christopher Datsikas";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:Ch
+	ristopher.Datsikas@microsoft.com
+ATTENDEE;CN="Shai Hinitz";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:shai.hinitz
+	@microsoft.com
+ATTENDEE;CN="Yu Jin Kim";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:yujinkim@mic
+	rosoft.com
+ATTENDEE;CN="Megha Tiwari";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:meghat@mic
+	rosoft.com
+ATTENDEE;CN="Terry Warwick";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:Terry.War
+	wick@microsoft.com
+ATTENDEE;CN="Scott Figg";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:Scott.Figg@m
+	icrosoft.com
+ATTENDEE;CN="Ross Coken";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:rosscoken@mi
+	crosoft.com
+CLASS:PUBLIC
+CREATED:20230324T142335Z
+DESCRIPTION:Hi all\,\nPutting this in your calendar as a placeholder for th
+	e Spring 1:Many(Morning) event.\n\n_______________________________________
+	_________________________________________ \n\nMicrosoft Teams meeting \n\n
+	Join on your computer\, mobile app or room device \n\nClick here to join t
+	he meeting <https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDllNWF
+	kMWEtM2JkYi00ZGU1LTg2NGEtMjhmOWUwOWU2ODVl%40thread.v2/0?context=%7b%22Tid%
+	22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%2260b44c09-
+	3f3e-4603-8656-2291b4cb72a1%22%7d>  \n\nMeeting ID: 253 919 870 114 \nPass
+	code: XK8hzC \n\nDownload Teams <https://www.microsoft.com/en-us/microsoft
+	-teams/download-app>  | Join on the web <https://www.microsoft.com/microso
+	ft-teams/join-a-meeting> \n\nOr call in (audio only) \n\n+1 323-849-4874\,
+	\,896508516# <tel:+13238494874\,\,896508516#>    United States\, Los Angel
+	es \n\nPhone Conference ID: 896 508 516# \n\nFind a local number <https://
+	dialin.teams.microsoft.com/8551f4c1-bea3-441a-8738-69aa517a91c5?id=8965085
+	16>  | Reset PIN <https://dialin.teams.microsoft.com/usp/pstnconferencing>
+	  \n\nLearn More <https://aka.ms/JoinTeamsMeeting>  | Meeting options <htt
+	ps://teams.microsoft.com/meetingOptions/?organizerId=60b44c09-3f3e-4603-86
+	56-2291b4cb72a1&tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47&threadId=19_
+	meeting_ZDllNWFkMWEtM2JkYi00ZGU1LTg2NGEtMjhmOWUwOWU2ODVl@thread.v2&message
+	Id=0&language=en-US>  \n\n________________________________________________
+	________________________________ \n\n \n\n
+DTEND;TZID="Pacific Standard Time":20230426T080000
+DTSTAMP:20230324T141927Z
+DTSTART;TZID="Pacific Standard Time":20230426T070000
+LAST-MODIFIED:20230324T142335Z
+LOCATION:Microsoft Teams Meeting
+ORGANIZER;CN="Lakshit Dabas":mailto:lakshitdabas@microsoft.com
+PRIORITY:5
+SEQUENCE:1
+SUMMARY;LANGUAGE=en-gb:Spring 1:Many Event Placeholder
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000B0D59B54D042D901000000000000000
+	010000000AB5B8D5F5388F74BB7DB7B9FDABC3881
+X-ALT-DESC;FMTTYPE=text/html:<html>\n<head>\n\n<meta name="Generator" conte
+	nt="Microsoft Word 15 (filtered medium)">\n<style>\n<!--\n@font-face\n	{fo
+	nt-family:"Cambria Math"}\n@font-face\n	{font-family:Calibri}\n@font-face\
+	n	{font-family:"Segoe UI"}\n@font-face\n	{font-family:"Segoe UI Semibold"}
+	\np.MsoNormal\, li.MsoNormal\, div.MsoNormal\n	{margin:0cm\;\n	font-size:1
+	1.0pt\;\n	font-family:"Calibri"\,sans-serif}\na:link\, span.MsoHyperlink\n
+		{color:#0563C1\;\n	text-decoration:underline}\nspan.EmailStyle17\n	{font-
+	family:"Calibri"\,sans-serif\;\n	color:windowtext}\n.MsoChpDefault\n	{font
+	-family:"Calibri"\,sans-serif}\n.MsoPapDefault\n	{}\n@page WordSection1\n	
+	{margin:72.0pt 72.0pt 72.0pt 72.0pt}\ndiv.WordSection1\n	{}\n-->\n</style>
+	\n</head>\n<body lang="EN-GB" link="#0563C1" vlink="#954F72" style="word-w
+	rap:break-word">\n<div class="WordSection1">\n<p class="MsoNormal">Hi all\
+	,<br>\nPutting this in your calendar as a placeholder for the Spring 1:Man
+	y(Morning) event.</p>\n<div>\n<p class="MsoNormal"><span style="color:#5F5
+	F5F">_____________________________________________________________________
+	___________</span>\n</p>\n</div>\n<div>\n<div style="margin-top:18.0pt\; m
+	argin-bottom:15.0pt">\n<p class="MsoNormal"><span lang="EN-US" style="font
+	-size:18.0pt\; font-family:&quot\;Segoe UI&quot\;\,sans-serif\; color:#252
+	424">Microsoft Teams meeting</span><span lang="EN-US" style="font-family:&
+	quot\;Segoe UI&quot\;\,sans-serif\; color:#252424">\n</span></p>\n</div>\n
+	<div style="margin-bottom:15.0pt">\n<div>\n<p class="MsoNormal"><b><span l
+	ang="EN-US" style="font-size:10.5pt\; font-family:&quot\;Segoe UI&quot\;\,
+	sans-serif\; color:#252424">Join on your computer\, mobile app or room dev
+	ice</span></b><b><span lang="EN-US" style="font-family:&quot\;Segoe UI&quo
+	t\;\,sans-serif\; color:#252424">\n</span></b></p>\n</div>\n<p class="MsoN
+	ormal"><span lang="EN-US" style="font-family:&quot\;Segoe UI&quot\;\,sans-
+	serif\; color:#252424"><a href="https://teams.microsoft.com/l/meetup-join/
+	19%3ameeting_ZDllNWFkMWEtM2JkYi00ZGU1LTg2NGEtMjhmOWUwOWU2ODVl%40thread.v2/
+	0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22O
+	id%22%3a%2260b44c09-3f3e-4603-8656-2291b4cb72a1%22%7d"><span style="font-s
+	ize:10.5pt\; font-family:&quot\;Segoe UI Semibold&quot\;\,sans-serif\; col
+	or:#6264A7">Click\n here to join the meeting</span></a> </span></p>\n</div
+	>\n<div style="margin-top:15.0pt\; margin-bottom:15.0pt">\n<div style="mar
+	gin-bottom:3.0pt">\n<p class="MsoNormal"><span lang="EN-US" style="font-si
+	ze:10.5pt\; font-family:&quot\;Segoe UI&quot\;\,sans-serif\; color:#252424
+	">Meeting ID:\n</span><span lang="EN-US" style="font-size:12.0pt\; font-fa
+	mily:&quot\;Segoe UI&quot\;\,sans-serif\; color:#252424">253 919 870 114</
+	span><span lang="EN-US" style="font-size:10.5pt\; font-family:&quot\;Segoe
+	 UI&quot\;\,sans-serif\; color:#252424">\n</span><span lang="EN-US" style=
+	"font-family:&quot\;Segoe UI&quot\;\,sans-serif\; color:#252424"><br>\n</s
+	pan><span lang="EN-US" style="font-size:10.5pt\; font-family:&quot\;Segoe 
+	UI&quot\;\,sans-serif\; color:#252424">Passcode:\n</span><span lang="EN-US
+	" style="font-size:12.0pt\; font-family:&quot\;Segoe UI&quot\;\,sans-serif
+	\; color:#252424">XK8hzC\n</span><span lang="EN-US" style="font-family:&qu
+	ot\;Segoe UI&quot\;\,sans-serif\; color:#252424"></span></p>\n<div>\n<p cl
+	ass="MsoNormal"><span lang="EN-US" style="font-size:10.5pt\; font-family:&
+	quot\;Segoe UI&quot\;\,sans-serif\; color:#252424"><a href="https://www.mi
+	crosoft.com/en-us/microsoft-teams/download-app"><span style="color:#6264A7
+	">Download Teams</span></a> |\n<a href="https://www.microsoft.com/microsof
+	t-teams/join-a-meeting"><span style="color:#6264A7">Join on the web</span>
+	</a></span></p>\n</div>\n</div>\n</div>\n<div style="margin-bottom:3.0pt">
+	\n<div style="margin-bottom:3.0pt">\n<p class="MsoNormal"><b><span lang="E
+	N-US" style="font-size:10.5pt\; font-family:&quot\;Segoe UI&quot\;\,sans-s
+	erif\; color:#252424">Or call in (audio only)</span></b><span lang="EN-US"
+	 style="font-family:&quot\;Segoe UI&quot\;\,sans-serif\; color:#252424">\n
+	</span></p>\n</div>\n<div style="margin-bottom:3.0pt">\n<p class="MsoNorma
+	l"><span lang="EN-US" style="font-family:&quot\;Segoe UI&quot\;\,sans-seri
+	f\; color:#252424"><a href="tel:+13238494874\,\,896508516# "><span style="
+	font-size:10.5pt\; color:#6264A7">+1 323-849-4874\,\,896508516#</span></a>
+	\n</span><span lang="EN-US" style="font-size:10.5pt\; font-family:&quot\;S
+	egoe UI&quot\;\,sans-serif\; color:#252424">&nbsp\; United States\, Los An
+	geles\n</span><span lang="EN-US" style="font-family:&quot\;Segoe UI&quot\;
+	\,sans-serif\; color:#252424"></span></p>\n</div>\n</div>\n<p class="MsoNo
+	rmal"><span lang="EN-US" style="font-size:10.5pt\; font-family:&quot\;Sego
+	e UI&quot\;\,sans-serif\; color:#252424">Phone Conference ID:\n</span><spa
+	n lang="EN-US" style="font-size:12.0pt\; font-family:&quot\;Segoe UI&quot\
+	;\,sans-serif\; color:#252424">896 508 516#\n</span><span lang="EN-US" sty
+	le="font-family:&quot\;Segoe UI&quot\;\,sans-serif\; color:#252424"></span
+	></p>\n<div style="margin-bottom:15.0pt">\n<p class="MsoNormal"><span lang
+	="EN-US" style="font-family:&quot\;Segoe UI&quot\;\,sans-serif\; color:#25
+	2424"><a href="https://dialin.teams.microsoft.com/8551f4c1-bea3-441a-8738-
+	69aa517a91c5?id=896508516"><span style="font-size:10.5pt\; color:#6264A7">
+	Find a local number</span></a>\n | <a href="https://dialin.teams.microsoft
+	.com/usp/pstnconferencing"><span style="font-size:10.5pt\; color:#6264A7">
+	Reset PIN</span></a>\n</span></p>\n</div>\n<div style="margin-top:15.0pt\;
+	 margin-bottom:18.0pt">\n<p class="MsoNormal"><span lang="EN-US" style="fo
+	nt-family:&quot\;Segoe UI&quot\;\,sans-serif\; color:#252424"><a href="htt
+	ps://aka.ms/JoinTeamsMeeting"><span style="font-size:10.5pt\; color:#6264A
+	7">Learn More</span></a> |\n<a href="https://teams.microsoft.com/meetingOp
+	tions/?organizerId=60b44c09-3f3e-4603-8656-2291b4cb72a1&amp\;tenantId=72f9
+	88bf-86f1-41af-91ab-2d7cd011db47&amp\;threadId=19_meeting_ZDllNWFkMWEtM2Jk
+	Yi00ZGU1LTg2NGEtMjhmOWUwOWU2ODVl@thread.v2&amp\;messageId=0&amp\;language=
+	en-US">\n<span style="font-size:10.5pt\; color:#6264A7">Meeting options</s
+	pan></a> </span></p>\n</div>\n</div>\n<div>\n<p class="MsoNormal"><span st
+	yle="color:#5F5F5F">______________________________________________________
+	__________________________</span>\n</p>\n</div>\n<p class="MsoNormal">&nbs
+	p\;</p>\n</div>\n</body>\n</html>\n
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-APPTLASTSEQUENCE:1
+X-MS-OLK-APPTSEQTIME:20230324T141927Z
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
